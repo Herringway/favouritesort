@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/favouritesort
+favouritesort.so
+favouritesort.dylib
+favouritesort.dll
+favouritesort.a
+favouritesort.lib
+favouritesort-test-*
+*.exe
+*.o
+*.obj
+*.lst
